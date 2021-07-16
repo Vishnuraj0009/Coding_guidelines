@@ -39,7 +39,7 @@ Frequently used file names include:
 |**File Name**|**Use**|
 | - | - |
 |GNUmakefile|<p>The preferred name for makefiles.</p><p>We use gnumake to build our software.</p>|
-|README|<p>Thepreferrednameforthefilethatsummarizesthe contents of a particular directory.</p>|
+|README|<p>The preferred name for the file that summarizes the contents of a particular directory.</p>|
 
 # 3 - File Organization
 
