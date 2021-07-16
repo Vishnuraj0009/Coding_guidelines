@@ -36,12 +36,12 @@ JavaSoft uses the following file suffixes:
 
 Frequently used file names include:
 
-
-
 |**File Name**|**Use**|
 | - | - |
-|GNUmakefile README|<p>The preferred name for makefiles.</p><p>We use gnumake to build our software.</p><p>Thepreferrednameforthefilethatsummarizesthe contents of a particular directory.</p>|
-**3 - File Organization![](Aspose.Words.71cf046f-d6d7-46b2-a378-86110ff3a781.002.png)**
+|GNUmakefile|<p>The preferred name for makefiles.</p><p>We use gnumake to build our software.</p>|
+|README|<p>Thepreferrednameforthefilethatsummarizesthe contents of a particular directory.</p>|
+
+# 3 - File Organization
 
 A file consists of sections that should be separated by blank lines and an optional comment identifying each section.
 
