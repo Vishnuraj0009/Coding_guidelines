@@ -21,7 +21,7 @@ Comments on this document should be submitted to our feedback form at http://jav
 
 This section lists commonly used file suffixes and names.
 
-**2.10 File Suffixes**
+**2.1 File Suffixes**
 
 JavaSoft uses the following file suffixes:
 
@@ -29,10 +29,10 @@ JavaSoft uses the following file suffixes:
 
 |**File Type**|**Suffix**|
 | - | - |
-|Java source Java bytecode|.java .class|
-` `**2.2**
+|Java source|.java|
+|Java bytecode|.class|
 
-**Common File Names**
+**2.2 Common File Names**
 
 Frequently used file names include:
 
