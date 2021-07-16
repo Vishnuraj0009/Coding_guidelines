@@ -17,7 +17,6 @@ For questions concerning adaptation, modification, or redistribution of this doc
 
 Comments on this document should be submitted to our feedback form at http://java.sun.com/ docs/forms/sendusmail.html.
 
-
 # 2 - File Names
 
 This section lists commonly used file suffixes and names.
@@ -40,7 +39,6 @@ Frequently used file names include:
 |GNUmakefile|<p>The preferred name for makefiles.</p><p>We use gnumake to build our software.</p>|
 |README|<p>The preferred name for the file that summarizes the contents of a particular directory.</p>|
 
-
 # 3 - File Organization
 
 A file consists of sections that should be separated by blank lines and an optional comment identifying each section.
@@ -55,7 +53,7 @@ Each Java source file contains a single public class or interface. When private 
 
 Java source files have the following ordering:
 
-- Beginning comments (see “Beginning Comments” on page 4)
+- Beginning comments (see “Beginning Comments” on section 3.1.1)
 - Package and Import statements; for example:
 
   import java.applet.Applet;
@@ -64,11 +62,9 @@ Java source files have the following ordering:
 
   import java.net.\*;
 
-- Class and interface declarations (see “Class and Interface Declarations” on page 4)
+- Class and interface declarations (see “Class and Interface Declarations” on section 3.1.3)
 
-3 - File Organization
-
-1. *Beginning Comments*
+*3.1.1 Beginning Comments*
 
 All source files should begin with a c-style comment that lists the programmer(s), the date, a copyright notice, and also a brief description of the purpose of the program. For example:
 
@@ -86,7 +82,7 @@ All source files should begin with a c-style comment that lists the programmer(s
 
 ` `\*/
 
-2. *Package and Import Statements*
+*3.2.2 Package and Import Statements*
 
 The first non-comment line of most Java source files is apackage statement. After that, import statements can follow. For example:
 
