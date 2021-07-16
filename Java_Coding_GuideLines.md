@@ -17,6 +17,7 @@ For questions concerning adaptation, modification, or redistribution of this doc
 
 Comments on this document should be submitted to our feedback form at http://java.sun.com/ docs/forms/sendusmail.html.
 
+
 # 2 - File Names
 
 This section lists commonly used file suffixes and names.
@@ -24,8 +25,6 @@ This section lists commonly used file suffixes and names.
 **2.1 File Suffixes**
 
 JavaSoft uses the following file suffixes:
-
-
 
 |**File Type**|**Suffix**|
 | - | - |
@@ -40,6 +39,7 @@ Frequently used file names include:
 | - | - |
 |GNUmakefile|<p>The preferred name for makefiles.</p><p>We use gnumake to build our software.</p>|
 |README|<p>The preferred name for the file that summarizes the contents of a particular directory.</p>|
+
 
 # 3 - File Organization
 
@@ -58,11 +58,11 @@ Java source files have the following ordering:
 - Beginning comments (see “Beginning Comments” on page 4)
 - Package and Import statements; for example:
 
-import java.applet.Applet;
+  import java.applet.Applet;
 
-import java.awt.\*;
+  import java.awt.\*;
 
-import java.net.\*;
+  import java.net.\*;
 
 - Class and interface declarations (see “Class and Interface Declarations” on page 4)
 
