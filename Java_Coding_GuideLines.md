@@ -68,19 +68,13 @@ Java source files have the following ordering:
 
 All source files should begin with a c-style comment that lists the programmer(s), the date, a copyright notice, and also a brief description of the purpose of the program. For example:
 
-/\*
-
-* Classname
-
 \*
-
-* Version info
-
-` `\*
-
-* Copyright notice
-
-` `\*/
+ * Classname
+ *
+ * Version info
+ *
+ * Copyright notice
+ */
 
 *3.2.2 Package and Import Statements*
 
