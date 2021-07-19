@@ -1,4 +1,3 @@
-| | | | | | |
 |-|-|-|-|-|-|
 |SN|Library Name|Type of library|Github Link|Language|Status|
 |1|Richbuttons| | |Java|Available for Development|
