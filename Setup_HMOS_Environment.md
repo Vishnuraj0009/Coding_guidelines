@@ -21,12 +21,7 @@ Below are the sequence of steps to be followed to successfully download the DevE
 
 You need to register on the Official websit[e https://developer.huawei.com/consumer/en/ ](https://developer.huawei.com/consumer/en/)and fill in the registration form as shown below. 
 
-`    `2021-04-24  Page2, 
 
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
 
 ![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.003.jpeg)
 
@@ -40,12 +35,7 @@ Once the you submit the necessary documents you will receive a confirmation stat
 
 After 2 working days you should receive the verification, if not you contact the helpdesk for further assistance. 
 
-`    `2021-04-24  Page3, 
 
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
 
 4. **DevEco Studio Download** 
 
@@ -67,12 +57,6 @@ Before proceeding with installation get the Nodejs installed on your system. You
 
 Now you can click on the DevEco Studio EXE file and start the setup process, during the process at one point it will ask for the nodejs path, please specify the path of nodejs installed in the previous step. 
 
-`    `2021-04-24  Page4, 
-
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
 
 Later you will be able to successfully install the DevEco Studio and launch the IDE successfully. 
 
@@ -82,21 +66,11 @@ Inorder to start the HVD manager you need your account to be verified which was 
 
 Once confirmed you will get a pop as shown below and you need to click on “Allow” 
 
-`    `2021-04-24  Page5, 
 
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
 
 ![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.005.jpeg)
 
-`    `2021-04-24  Page6, 
-
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
+ 
 
 ![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.006.jpeg)
 
@@ -110,12 +84,7 @@ HVD manager
 
 You can choose one of the device types and select the model type and click on the 
 
-`    `2021-04-24  Page7, 
 
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
 
 corresponding play button to start the emulator. 
 
@@ -125,15 +94,5 @@ Below is the glimpse of the connected device and choosing one we will be able to
 
 ![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.008.jpeg)
 
-`    `2021-04-24  Page8, 
 
-` `APPLICATION LIBRARY ENGINEERING GROUP 
 
-Total9 
-![](Aspose.Words.25dc77f0-f488-487e-8615-547e5304e67a.001.png)
-
-`    `2021-04-24  Page9, 
-
-` `APPLICATION LIBRARY ENGINEERING GROUP 
-
-Total9 
